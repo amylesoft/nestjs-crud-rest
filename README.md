@@ -38,7 +38,7 @@ $ npm run start:prod
 
 ## API docs
 
-You can checkout api documentation here after running an app <a href="http://localhost:3000/api-docs/" target="_blank">Docs</a>
+You can checkout api documentation here <a href="https://nestjs-crud-rest.herokuapp.com/api-docs/" target="_blank">Docs</a>
 
 ## Test
 
